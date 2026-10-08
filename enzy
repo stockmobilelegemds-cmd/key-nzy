@@ -1,0 +1,291 @@
+[
+    {
+        "device_id": "f2321d93adc5275b",
+        "key": "VVIP-KENTOD",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "45d0ae64f06837a5",
+        "key": "VVIP-VII",
+        "expirydate": "01-01-9999",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "8f78751a6f126e89",
+        "key": "VVIP-IKY SPICY",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "f962dbed3d78fb40",
+        "key": "ATHENA SILIT",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "8e3a8b1f77e22c37",
+        "key": "VVIP-AESTER SPICY",
+        "expirydate": "31-12-9999",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "a94923c7a8d0bd90",
+        "key": "VVIP-EDMOND",
+        "expirydate": "30-05-8026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "208ffddafa9c5ad3",
+        "key": "VVIP-DO SPICY",
+        "expirydate": "30-12-2099",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "643086fce655695f",
+        "key": "VVIP-PANDA",
+        "expirydate": "30-06-2030",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "14906772d0284504",
+        "key": "BIJI KUDA",
+        "expirydate": "31-12-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "75ba45d11cc68e55",
+        "key": "ABAY JOMOK",
+        "expirydate": "30-12-9025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "6866760119f4c192",
+        "key": "DIAS HAMIL",
+        "expirydate": "30-12-9025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "ec44d129b0c8375c",
+        "key": "VIP-MOD SPICY",
+        "expirydate": "15-06-8089",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "f53f70474191a0fc",
+        "key": "VIP-BILA",
+        "expirydate": "03-12-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "93885c0074d459ae",
+        "key": "VIP-FOS ALENA",
+        "expirydate": "13-12-8029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "3fd897419c18fe8b",
+        "key": "VIP-zico",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "0ed408e3fbaf7c84",
+        "key": "VIP-REVANO SPICY",
+        "expirydate": "15-06-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "1d56ced4200fa689",
+        "key": "VIP-KEY SPICY",
+        "expirydate": "11-12-8024",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "5d6a919cfbea0994",
+        "key": "VIP-AL SPICY",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "1def22b7540c1e54",
+        "key": "VIP-LOGAN",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "1d6499a8c61ceb42",
+        "key": "VIP-PIUNGG",
+        "expirydate": "15-06-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "c4da7b6aa538cca4",
+        "key": "WOFI-JOMOK",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "97eeb995b811c864",
+        "key": "RAMA JOMOK",
+        "expirydate": "31-12-2030",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "ad176c81cf28734d",
+        "key": "VVIP-PIW SPICY",
+        "expirydate": "31-12-2045",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "8038628da6d9caaf",
+        "key": "VIP-REO SPICY",
+        "expirydate": "15-06-2029",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "deaeb28988f0060c",
+        "key": "VAN GAY",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "5cf4f8565af549c7",
+        "key": "VVIP-LUCIFER",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "b944bf9c4f269bd4",
+        "key": "VIP-ECHA",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "54024eaa59b09068",
+        "key": "VIP-KUNYUK",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "72d88631934199f9",
+        "key": "VIP-ZYRO",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "54c26595951d8aa9",
+        "key": "VIP-YANN KICAU",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "4baf7b306e9c7f30",
+        "key": "VIP-BARA",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "45bb520d2c04be30",
+        "key": "VIP-SPICYY",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "c0b85d594188a36c",
+        "key": "VIP-REY",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "e29872dd8b3de8b8",
+        "key": "VIP-EZAR",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "8d474abbe02dd510",
+        "key": "VIP-AXEL",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "c4da7b6aa538ca4",
+        "key": "VIP-OFI",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "b039f13532c0b46a",
+        "key": "VIP-FOS KENZO",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    }, 
+    {
+        "device_id": "f7f76db1493d52f9",
+        "key": "VIP-FOS AYLE",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    }, 
+    {
+        "device_id": "862eadc6a06f9402",
+        "key": "VIP-FOS JHONATAN",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "a1331b487163febb",
+        "key": "VIP-FOS AZA",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "55d8f1e76da54f68",
+        "key": "VIP-FOS XAV",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "34bf74d827620c5d",
+        "key": "VIP-FOS ZUMI",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "70153237a738ebda",
+        "key": "VIP-GAVV KICAU",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "1702b216153c6192",
+        "key": "VIP-ALE KICAU",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    }, 
+    {
+        "device_id": "25396f35905e5da6",
+        "key": "VIP-MATHIAS",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "af56405097b5a4f4",
+        "key": "VIP-YUU KICAU",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "08a6ba18c2c0f3ad",
+        "key": "VIP-MOKIIZZ",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    }
+    
+    
+    
+    
+    
+    
+]
